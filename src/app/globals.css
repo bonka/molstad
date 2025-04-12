@@ -14,10 +14,6 @@
   --text-secondary: 102, 102, 102;
   --border-color: 229, 231, 235;
   --transition-speed: 0.3s;
-  :root {
-  /* Behold dine eksisterende variabler */
-  --primary-color: 0, 122, 255;
-  /* ... */
 
   /* Legg til disse nye variablene som Tailwind forventer */
   --background: 242 242 247;
